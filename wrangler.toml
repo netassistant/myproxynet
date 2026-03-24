@@ -1,0 +1,8 @@
+name = "hidden-netassistant"
+main = "src/index.js"
+compatibility_date = "2024-12-02"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+UUID = "ca84ac69-e4f0-4a9b-af52-68e5dde01b47"
+PROXYIP = "ts.hpc.tw"
